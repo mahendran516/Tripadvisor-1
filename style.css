@@ -851,3 +851,9 @@ body {
     }
 
 }
+@media only screen and (max-width: 576px) {
+     .big__img__s3 img {
+        width: 100%;
+        margin-top: 10px;
+    }
+}
